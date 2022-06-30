@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 ### Aragorn: An Automated and Extensible Privacy-Enhancing System for Mobile Cameras
-Jan 21 2022
+Jan 21 2022  
 Mobile app developers often rely on high-quality
 cameras to implement rich functionalities. However, giving apps
 unfettered access to the mobile camera poses a serious threat
