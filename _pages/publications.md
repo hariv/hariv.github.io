@@ -24,5 +24,5 @@ Zainul Abi Din, Hari Venugopalan, Jaime Park, Andy Li, Weisu Yin, Haohui Mei, Yo
 USENIX Security Symposium 2020  
 
 "[MultiLock: Biometric-Based Graded Authentication for Mobile Devices](https://dl.acm.org/doi/10.1145/3360774.3360781)"  
-Shravan Aras, Chris Gniady, Hari Venugopalan  
+Shravan Aras, Chris Gniady and Hari Venugopalan  
 MobiQuitous 2019  
