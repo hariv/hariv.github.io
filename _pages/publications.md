@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+"[Doing good by fighting fraud: Ethical anti-fraud systems for mobile payments](https://ieeexplore.ieee.org/document/9519475)",
+Zainul Abi Din, Hari Venugopalan, Henry Lin, Adam Wushensky, Steven Liu and Samuel T. King,
+IEEE Symposium on Security and Privacy 2021
