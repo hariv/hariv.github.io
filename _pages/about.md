@@ -14,7 +14,7 @@ Hello! I'm a Computer Science Ph.D student at the University of California Davis
 ## News
 
 ### 2022 
-- <span style="font-size:2em;">Will be attending **Usenix Security Symposium** in Boston</span>.
+- <span style="font-size:2px;">Will be attending **Usenix Security Symposium** in Boston</span>.
 - <span style="font-size:2em;">Awarded a Summer Fellowship by the **Graduate Group in Computer Science (GGCS)** for Summer 2022</span>.
 - <span style="font-size:2em;">Presented a talk on "Aragorn: An Automated and Extensible Privacy-Enhancing System for Mobile Cameras" with **ProperData**</span>.
 
