@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-"[Open Source Software Computed Risk Framework](https://hariv.github.io/files/drs.pdf)"
+"[Open Source Software Computed Risk Framework](https://hariv.github.io/files/drs.pdf)"    
 Jon W Chapman and Hari Venugopalan
 IEEE International Conference on Computer Science and Information Technologies 2022
 
