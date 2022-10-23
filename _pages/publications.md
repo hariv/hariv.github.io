@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 "[Open Source Software Computed Risk Framework](https://hariv.github.io/files/drs.pdf)"    
-Jon W Chapman and Hari Venugopalan
+Jon W Chapman and Hari Venugopalan  
 IEEE International Conference on Computer Science and Information Technologies 2022
 
 "[Doing good by fighting fraud: Ethical anti-fraud systems for mobile payments](https://ieeexplore.ieee.org/document/9519475)"  
