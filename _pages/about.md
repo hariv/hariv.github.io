@@ -15,7 +15,7 @@ Hello! I'm a Computer Science Ph.D student at the University of California Davis
 
 ### 2022
 - <span style="font-size:18px;">*"Open Source Software Computed Risk Framework" was accepted at IEEE CSIT'22*</span>
-- <span style="font-size:18px;">Will present a poster of *"Centauri: Fingerprinting the Rowhammered Sky"* at the 2022 Noyce Symposium</span>.
+- <span style="font-size:18px;">Presented a poster of *"Centauri: Fingerprinting the Rowhammered Sky"* at the 2022 Noyce Symposium at UC Santa Barbara</span>.
 - <span style="font-size:18px;">Attended *Usenix Security Symposium* in Boston</span>.
 - <span style="font-size:18px;">Awarded a Summer Fellowship by the *Graduate Group in Computer Science (GGCS)* for Summer 2022</span>.
 - <span style="font-size:18px;">Presented a talk on *"Aragorn: An Automated and Extensible Privacy-Enhancing System for Mobile Cameras"* with ProperData</span>.
