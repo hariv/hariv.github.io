@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 ### Aragorn: An Automated and Extensible Privacy-Enhancing System for Mobile Cameras
-## UC Davis, Davis, CA 95616
+#### UC Davis, Davis, CA 95616
 Jan 21 2022  
 Mobile app developers often rely on high-quality
 cameras to implement rich functionalities. However, giving apps
@@ -25,7 +25,7 @@ to only contain user-authorized objects without needing any
 manual user input.
 
 ### eXeGAN: Not all Malware is created Equal
-## Blue Hexagon, Sunnyvale, CA 94086
+#### Blue Hexagon, Sunnyvale, CA 94086
 Sep 20 2019
 Antivirus engines use static analysis of executables to detect malware. In some cases, they prefer
 static analysis over dynamic analysis since dynamic analysis is time consuming and can be unreliable
