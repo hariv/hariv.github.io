@@ -24,7 +24,7 @@ to only contain user-authorized objects without needing any
 manual user input.
 
 ### eXeGAN: Not all Malware is created Equal
-Blue Hexagon, Sunnyvale, CA 94086 on Sep 20 2019
+Blue Hexagon, Sunnyvale, CA 94086 on Sep 20 2019    
 Antivirus engines use static analysis of executables to detect malware. In some cases, they prefer
 static analysis over dynamic analysis since dynamic analysis is time consuming and can be unreliable
 if the malware detects that it is being executed in a sandboxed environment for analysis. The advent of
