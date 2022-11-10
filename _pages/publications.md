@@ -27,6 +27,10 @@ IEEE Security and Privacy Magazine 2021
 Zainul Abi Din, Hari Venugopalan, Jaime Park, Andy Li, Weisu Yin, Haohui Mei, Yong Jae Lee, Stevel Liu and Samuel T. King  
 USENIX Security Symposium 2020  
 
+"[EM-EVAL: AN EVALUATION PROCEDURE FOR SMARTPHONE-BASED TRAVEL DIARIES](https://hariv.github.io/files/em-eval.pdf)"
+K. Shankari, Hari Venugopalan, David E. Culler and Randy H. Katz
+Transportation Research Board (TRB) Annual Meeting 2020
+
 "[MultiLock: Biometric-Based Graded Authentication for Mobile Devices](https://dl.acm.org/doi/10.1145/3360774.3360781)"  
 Shravan Aras, Chris Gniady and Hari Venugopalan  
 MobiQuitous 2019  
