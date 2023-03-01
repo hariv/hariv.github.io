@@ -12,6 +12,9 @@ redirect_from:
 Hello! I'm a Computer Science Ph.D student at the University of California Davis where I am advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I primarily conduct research on building privacy-preserving authentication and anti-fraud systems. I am also interested in exploring the fingerprinting capabilities of computer hardware.
 
 ## News
+### 2023
+- <span style="font-size:18px;">Served on the PC of *SecWeb 2023 Workshop*, co-located with *IEEE Symposium on Security & Privacy '23*</span>*
+- <span style="font-size:18px;">Served as a reviewer for the *IEEE Internet of Things Journal*</span>
 
 ### 2022
 - <span style="font-size:18px;">*"Open Source Software Computed Risk Framework" was accepted at IEEE CSIT'22*</span>.
