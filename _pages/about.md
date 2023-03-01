@@ -13,7 +13,7 @@ Hello! I'm a Computer Science Ph.D student at the University of California Davis
 
 ## News
 ### 2023
-- <span style="font-size:18px;">Served on the PC of *SecWeb 2023 Workshop*, co-located with *IEEE Symposium on Security & Privacy '23*</span>*
+- <span style="font-size:18px;">Served on the PC of *SecWeb 2023 Workshop*, co-located with *IEEE Symposium on Security & Privacy '23*</span>
 - <span style="font-size:18px;">Served as a reviewer for the *IEEE Internet of Things Journal*</span>
 
 ### 2022
