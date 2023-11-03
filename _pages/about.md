@@ -13,11 +13,14 @@ Hello! I'm a Computer Science Ph.D student at the University of California Davis
 
 ## News
 ### 2023
+- <span style="font-size:18px;">*"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* was accepted at UbiComp'24</span>
+- <span style="font-size:18px;">Presented a poster of *"Centauri: Extracting device fingerprints using Rowhammer"* at the 2023 ProperData Symposium at Northeastern University</span>
+- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '23*</span>
 - <span style="font-size:18px;">Served on the PC of *SecWeb 2023 Workshop*, co-located with *IEEE Symposium on Security & Privacy '23*</span>
 - <span style="font-size:18px;">Served as a reviewer for the *IEEE Internet of Things Journal*</span>
 
 ### 2022
-- <span style="font-size:18px;">*"Open Source Software Computed Risk Framework" was accepted at IEEE CSIT'22*</span>.
+- <span style="font-size:18px;">*"Open Source Software Computed Risk Framework"* was accepted at IEEE CSIT'22</span>.
 - <span style="font-size:18px;">Presented a poster of *"Centauri: Fingerprinting the Rowhammered Sky"* at the 2022 Noyce Symposium at UC Santa Barbara</span>.
 - <span style="font-size:18px;">Virtually attended Ad-Filtering Dev Summit</span>.
 - <span style="font-size:18px;">Attended *Usenix Security Symposium* in Boston</span>.
