@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+"[Aragorn: A Privacy-Enhancing System for Mobile Cameras](https://hariv.github.io/files/aragorn.pdf)"
+Hari Venugopalan, Zainul Abi Din, Trevor Carpenter, Jason Lowe-Power, Samuel T. King and Zubair Shafiq
+UbiComp Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2024
 
 "[Open Source Software Computed Risk Framework](https://hariv.github.io/files/drs.pdf)"    
 Jon Chapman and Hari Venugopalan  
