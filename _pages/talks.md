@@ -11,7 +11,7 @@ author_profile: true
 
 {% endif %}
 ### FP-Rowhammer: Rowhammer-Based Device Fingerprinting
-UC Davis, Davis, CA 95616 on Feb 16 2024
+UC Davis, Davis, CA 95616 on Feb 16 2024 <br/>
 Device fingerprinting relies on attributes that capture heterogeneity in
 hardware and software configurations to extract unique and stable fingerprints.
 Fingerprinting countermeasures attempt to either present a uniform fingerprint
