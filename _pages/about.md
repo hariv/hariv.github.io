@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I'm a Computer Science Ph.D student at the University of California Davis where I am advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I primarily conduct research on building privacy-preserving authentication and anti-fraud systems. I am also interested in exploring the fingerprinting capabilities of computer hardware.
+Hello! I'm a Computer Science Ph.D student at the University of California Davis where I am advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I specialize in security and privacy research with a focus on digital identities. My work involves conducting measurements, employing machine learning techniques, and building systems to discover and deploy innovative vectors for establishing digital identities, including hardware and biometrics.
 
 ## News
 ### 2024
