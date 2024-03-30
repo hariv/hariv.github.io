@@ -21,11 +21,7 @@ Rowhammer-based device fingerprinting approach that can build unique and stable
 fingerprints even across devices with normalized or obfuscated hardware and
 software configurations. To this end, FP-Rowhammer leverages the DRAM manufacturing
 process variation that gives rise to unique distributions of Rowhammer-induced bit
-flips across different DRAM modules. Our evaluation on a test bed of 98 DRAM modules
-shows that FP-Rowhammer achieves 99.91\% fingerprinting accuracy. FP-Rowhammer's
-fingerprints are also stable, with no degradation in fingerprinting accuracy over
-a period of ten days.FP-Rowhammer is the first Rowhammer fingerprinting approach
-that is able to extract unique and stable fingerprints efficiently and at scale.
+flips across different DRAM modules.
 
 ### Aragorn: An Automated and Extensible Privacy-Enhancing System for Mobile Cameras
 UC Davis, Davis, CA 95616 on Jan 21 2022  
