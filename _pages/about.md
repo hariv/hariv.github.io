@@ -12,6 +12,10 @@ redirect_from:
 Hello! I'm a Computer Science Ph.D student at the University of California Davis where I am advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I primarily conduct research on building privacy-preserving authentication and anti-fraud systems. I am also interested in exploring the fingerprinting capabilities of computer hardware.
 
 ## News
+### 2024
+- <span style="font-size:18px;">*"Adaptability, Extensibility and Simplicity in the MetabolicOS"* was accepted at BioSys workshop'24</span>
+- <span style="font-size:18px;">Presented a talk on *"FP-Rowhammer: Rowhammer-Based Device Fingerprinting"* with ProperData</span>
+
 ### 2023
 - <span style="font-size:18px;">*"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* was accepted at UbiComp'24</span>
 - <span style="font-size:18px;">Presented a poster of *"Centauri: Extracting device fingerprints using Rowhammer"* at the 2023 ProperData Symposium at Northeastern University</span>

@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+"[Adaptability, Extensibility and Simplicity of the MetabolicOS](https://hariv.github.io/files/metabolicos.pdf)"<br/>
 "[Aragorn: A Privacy-Enhancing System for Mobile Cameras](https://hariv.github.io/files/aragorn.pdf)"<br/>
 Hari Venugopalan, Zainul Abi Din, Trevor Carpenter, Jason Lowe-Power, Samuel T. King and Zubair Shafiq<br/>
 UbiComp Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2024
