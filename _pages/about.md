@@ -15,7 +15,7 @@ Hello! I'm a Computer Science Ph.D student at the University of California Davis
 ### 2024
 - <span style="font-size:18px;">Awarded a Summer Fellowship by the *Graduate Group in Computer Science (GGCS)* for Summer 2024</span>.
 - <span style="font-size:18px">Attended *IEEE Symposium on Security & Privacy '24* (Oakland)</span>
-- <span style="font-size:18px">*"GlucOS: A secure, safe and extensible system for automated insulin delivery"* was recognized as the AI-Selected Best Poster at the IEEE S&P'24</span>
+- <span style="font-size:18px">*"GlucOS: A secure, safe and extensible system for automated insulin delivery"* was recognized as the AI-Selected Best Poster at IEEE S&P'24</span>
 - <span style="font-size:18px;">*"Adaptability, Extensibility and Simplicity in the MetabolicOS"* was accepted at BioSys workshop'24</span>
 - <span style="font-size:18px;">Presented a talk on *"FP-Rowhammer: Rowhammer-Based Device Fingerprinting"* with ProperData</span>
 
