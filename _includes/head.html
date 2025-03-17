@@ -12,8 +12,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
+  console.log(document.cookie);
+  
   if (document.cookie.split(';').some(c => c.trim().startsWith('inception='))) {
-    return;
+      return;
   }
   const randomNum = Math.floor(Math.random() * 1000000000);
   document.cookie = `inception=${randomNum};path=/;max-age=31536000`;
