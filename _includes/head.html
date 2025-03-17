@@ -13,12 +13,10 @@
 
 <script type="text/javascript">
   console.log(document.cookie);
-  
-  /*if (document.cookie.split(';').some(c => c.trim().startsWith('inception='))) {
-      return;
+  if (!document.cookie.split(';').some(c => c.trim().startsWith('inception='))) {
+      const randomNum = Math.floor(Math.random() * 1000000000);
+      document.cookie = `inception=${randomNum};path=/;max-age=31536000`;
   }
-  const randomNum = Math.floor(Math.random() * 1000000000);
-  document.cookie = `inception=${randomNum};path=/;max-age=31536000`;*/
 </script>
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
