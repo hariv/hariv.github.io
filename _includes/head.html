@@ -17,6 +17,25 @@
       const randomNum = Math.floor(Math.random() * 1000000000);
       document.cookie = `inception=${randomNum};path=/;max-age=31536000`;
   }
+  
+  await new Promise(resolve => setTimeout(resolve, 2000));
+
+  const xhr = new XMLHttpRequest();
+  xhr.open('GET', '/inception', true);
+  
+  xhr.onload = function() {
+      if (xhr.status === 200) {
+	  console.log('Request successful:', xhr.responseText);
+      } else {
+	  console.error('Request failed with status:', xhr.status);
+      }
+  };
+  xhr.onerror = function() {
+      console.error('Request failed');
+  };
+  xhr.send();
+  console.log("after set");
+  console.log(document.cookie);
 </script>
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
