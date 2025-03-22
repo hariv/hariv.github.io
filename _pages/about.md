@@ -12,7 +12,13 @@ redirect_from:
 Hello! I'm a Computer Science Ph.D student at the University of California Davis where I am advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I specialize in security and privacy research with a focus on digital identities. My work involves conducting measurements, employing machine learning techniques, and building systems to discover and deploy innovative vectors for establishing digital identities, including hardware and biometrics.
 
 ## News
+### 2025
+- <span style="font-size:18px;">*"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* was accepted at ACM IMC'25</span>
 ### 2024
+- <span style="font-size:18px;">Presented *GlucOS: Security, correctness, and simplicity for automated insulin delivery* on invitation from MIT at the MIT CSAIL Security Seminar</span>
+- <span style="font-size:18px;">Presented *GlucOS: Security, correctness, and simplicity for automated insulin delivery* on invitation from the FairComp workshop co-located with UbiComp at Melbourne, Australia</span>
+- <span style="font-size:18px;">Presented *"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* at UbiComp'24 at Melbourne, Australia</span>
+- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '23*</span>
 - <span style="font-size:18px;">Awarded a Summer Fellowship by the *Graduate Group in Computer Science (GGCS)* for Summer 2024</span>.
 - <span style="font-size:18px">Attended *IEEE Symposium on Security & Privacy '24* (Oakland)</span>
 - <span style="font-size:18px">*"GlucOS: A secure, safe and extensible system for automated insulin delivery"* was recognized as the AI-Selected Best Poster at IEEE S&P'24</span>
