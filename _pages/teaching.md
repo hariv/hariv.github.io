@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+### Teaching Assistant for ECS 150: Operating Systems at UC Davis for Dr. Sam King
+Sep 2024 - Mar 2025
+Technologies used: C, C++
+Led discussions, held office hours, and framed and graded questions for the course.
+
 ### Teaching Assistant for ECS 152: Computer Networks at UC Davis for Dr. Zubair Shafiq
 Sep 2023 - Dec 2023
 Technologies used: Python, Dpkt, Selenium, WireShark, Docker, tc
