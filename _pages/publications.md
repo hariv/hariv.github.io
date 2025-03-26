@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+"[FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic](https://hariv.github.io/files/fpinconsistent.pdf)"<br/>
+Hari Venugopalan, Shaoor Munir, Shuaib Ahmed, Tangbaihe Wang, Samuel T. King and Zubair Shafiq<br/>
+ACM Internet Measurement Conference 2025
+
 "[Adaptability, Extensibility and Simplicity of the MetabolicOS](https://hariv.github.io/files/metabolicos.pdf)"<br/>
 Hari Venugopalan, Shreyas Madhav Ambattur Vijayanand and Samuel T. King<br/>
 BioSys Workshop 2024
