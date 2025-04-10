@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 "[FP-Rowhammer: DRAM-Based Device Fingerprinting](https://hariv.github.io/files/fprowhammer.pdf)"<br/>
 Hari Venugopalan, Kaustav Goswami, Zainul Abi Din, Jason Lowe-Power, Samuel T. King and Zubair Shafiq<br/>
+ACM ASIA Conference on Computer and Communications Security 2025
+
 "[FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic](https://hariv.github.io/files/fpinconsistent.pdf)"<br/>
 Hari Venugopalan, Shaoor Munir, Shuaib Ahmed, Tangbaihe Wang, Samuel T. King and Zubair Shafiq<br/>
 ACM Internet Measurement Conference 2025
