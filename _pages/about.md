@@ -13,6 +13,7 @@ Hello! I'm a Computer Science Ph.D candidate at the University of California Dav
 
 ## News
 ### 2025
+- <span style="font-size:18px;">Served on the shadow PC of ACM IMC 2025</span>
 - <span style="font-size:18px;">*"FP-Rowhammer: DRAM-Based Device Fingerprinting"* was accepted at ACM AsiaCCS'25</span>
 - <span style="font-size:18px;">*"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* was accepted at ACM IMC'25</span>
 ### 2024
