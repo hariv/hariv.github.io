@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 
-Hello! I'm a Computer Science Ph.D candidate at the University of California Davis, advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). My research focuses on defining the notion of digital identities for the 21st century through the lens of security, privacy, ethics, and accessibility. My research philosophy focuses on impact by proposing novel solutions to solve real-world problems.
+Hello! I'm a Computer Science Ph.D candidate at the University of California Davis, advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). My research focuses on defining the notion of digital identities for the 21st century through the lens of security, privacy, ethics, and accessibility. My research philosophy focuses on impact by proposing novel solutions to solve real-world problems. I am currently working as an Applied Scientist Intern with AWS Fraud Prevention.
 
 ## News
 ### 2025
+- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '25*</span>
 - <span style="font-size:18px;">Started working as an Applied Research Scientist Intern at Amazon's AWS Fraud Prevention Team</span>
 - <span style="font-size:18px;">Served on the shadow PC of ACM IMC 2025</span>
 - <span style="font-size:18px;">*"FP-Rowhammer: DRAM-Based Device Fingerprinting"* was accepted at ACM AsiaCCS'25</span>
@@ -21,7 +22,7 @@ Hello! I'm a Computer Science Ph.D candidate at the University of California Dav
 - <span style="font-size:18px;">Presented *GlucOS: Security, correctness, and simplicity for automated insulin delivery* on invitation from MIT at the MIT CSAIL Security Seminar</span>
 - <span style="font-size:18px;">Presented *GlucOS: Security, correctness, and simplicity for automated insulin delivery* on invitation from the FairComp workshop co-located with UbiComp at Melbourne, Australia</span>
 - <span style="font-size:18px;">Presented *"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* at UbiComp'24 at Melbourne, Australia</span>
-- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '23*</span>
+- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '24*</span>
 - <span style="font-size:18px;">Awarded a Summer Fellowship by the *Graduate Group in Computer Science (GGCS)* for Summer 2024</span>.
 - <span style="font-size:18px">Attended *IEEE Symposium on Security & Privacy '24* (Oakland)</span>
 - <span style="font-size:18px">*"GlucOS: A secure, safe and extensible system for automated insulin delivery"* was recognized as the AI-Selected Best Poster at IEEE S&P'24</span>
