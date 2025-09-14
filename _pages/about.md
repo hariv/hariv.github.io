@@ -13,6 +13,7 @@ Hello! I'm a Computer Science Ph.D candidate at the University of California Dav
 
 ## News
 ### 2025
+- <span style="font-size:18px;">Served as a reviewer for *IEEE Transactions on Computers* upon invitation</span>
 - <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '25*</span>
 - <span style="font-size:18px;">Started working as an Applied Research Scientist Intern at Amazon's AWS Fraud Prevention Team</span>
 - <span style="font-size:18px;">Served on the shadow PC of ACM IMC 2025</span>
