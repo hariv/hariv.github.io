@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I'm a Computer Science Ph.D candidate at the University of California Davis, advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). My research focuses on defining the notion of digital identities for the 21st century through the lens of security, privacy, ethics, and accessibility. My research philosophy focuses on impact by proposing novel solutions to solve real-world problems. I am currently working as an Applied Scientist Intern with AWS Fraud Prevention.
+Hello! I'm a Computer Science Ph.D candidate at the University of California Davis, advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). My research focuses on defining the notion of digital identities for the 21st century through the lens of security, privacy, ethics, and accessibility. My research philosophy focuses on impact by proposing novel solutions to solve real-world problems. I previously worked in the industry at Amazon and Oracle.
 
 ## News
 ### 2025
