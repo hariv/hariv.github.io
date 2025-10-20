@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-"[Enabling trust and agency in predictive glucose alerting: co-design and pilot testing of the BeaGL application in young adults living with type 1 diabetes](https://hariv.github.io/files/beagl_preprint.pdf)"
+"[Enabling trust and agency in predictive glucose alerting: co-design and pilot testing of the BeaGL application in young adults living with type 1 diabetes](https://hariv.github.io/files/beagl_preprint.pdf)"<br/>
 Hari Venugopalan, Samuel King, Salvador Lopez, Jun Min Kim, Grace Cheng, Tim Stewart, Sriram Magesh, Brendan Leung, Stephanie Crossen
 Under submission at JMIR Diabetes
 
