@@ -10,6 +10,11 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+### FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic
+IMC'25, Wisconsin Institutes for Discovery, 1205 University Ave, Madison, WI 53706 on Oct 28 2025<br/>
+Browser fingerprinting is used for bot detection. In response, bots have started altering their fingerprints to evade detection. We conduct the first large-scale evaluation to study whether and how altering fingerprints helps bots evade detection. To systematically investigate such evasive bots, we deploy a honey site that includes two anti-bot services (DataDome and BotD) and solicit bot traffic from 20 different bot services that purport to sell “realistic and undetectable traffic.” Across half a million requests recorded on our honey site, we find an average evasion rate of 52.93% against DataDome and 44.56% evasion rate against BotD. Our analysis of fingerprint attributes of evasive bots shows that they indeed alter their
+fingerprints. Moreover, we find that the attributes of these altered fingerprints are often inconsistent with each other. We propose FP-Inconsistent, a data-driven approach to detect such inconsistencies across space (two attributes in a given browser fingerprint) and time (a single attribute at two different points in time). Our evaluation shows that our approach can reduce the evasion rate of evasive bots by 44.95%-48.11% while maintaining a true negative rate of 96.84% on traffic from real users.
+
 ### GlucOS: Security, correctness, and simplicity for automated insulin delivery
 MIT CSAIL Security Seminar 2024-2025, MIT Cambridge MA 02139 on Dec 12 2024<br/>
 We present GlucOS, a novel system for trustworthy automated insulin delivery. Fundamentally, this
