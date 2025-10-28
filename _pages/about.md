@@ -13,6 +13,7 @@ Hello! I'm a Computer Science Ph.D candidate at the University of California Dav
 
 ## News
 ### 2025
+- <span style="font-size:18px;">Presented *"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* at IMC'25 at Madison</span>
 - <span style="font-size:18px;">Recognized as a top reviewer at *AISec Workshop '25*, co-located with *ACM Conference on Computer and Communications Security '25*</span>
 - <span style="font-size:18px;">Served as a reviewer for *IEEE Transactions on Computers* upon invitation</span>
 - <span style="font-size:18px;">Started working as an Applied Research Scientist Intern at Amazon's AWS Fraud Prevention Team</span>
@@ -20,8 +21,8 @@ Hello! I'm a Computer Science Ph.D candidate at the University of California Dav
 - <span style="font-size:18px;">*"FP-Rowhammer: DRAM-Based Device Fingerprinting"* was accepted at ACM AsiaCCS'25</span>
 - <span style="font-size:18px;">*"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* was accepted at ACM IMC'25</span>
 ### 2024
-- <span style="font-size:18px;">Presented *GlucOS: Security, correctness, and simplicity for automated insulin delivery* on invitation from MIT at the MIT CSAIL Security Seminar</span>
-- <span style="font-size:18px;">Presented *GlucOS: Security, correctness, and simplicity for automated insulin delivery* on invitation from the FairComp workshop co-located with UbiComp at Melbourne, Australia</span>
+- <span style="font-size:18px;">Presented *"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* on invitation from MIT at the MIT CSAIL Security Seminar</span>
+- <span style="font-size:18px;">Presented *"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* on invitation from the FairComp workshop co-located with UbiComp at Melbourne, Australia</span>
 - <span style="font-size:18px;">Presented *"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* at UbiComp'24 at Melbourne, Australia</span>
 - <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '24*</span>
 - <span style="font-size:18px;">Awarded a Summer Fellowship by the *Graduate Group in Computer Science (GGCS)* for Summer 2024</span>.
