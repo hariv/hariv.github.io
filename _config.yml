@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hari Venugopalan"
   avatar           : "hari.jpeg"
-  bio              : "Computer Science Ph.D candidate focusing on anti-fraud, privacy and healthcare research"
-  location         : "Davis, CA"
-  employer         : "University of California Davis"
+  bio              : "Computer Science Ph.D focusing on anti-fraud, privacy, and healthcare research"
+  location         : "New York, New York"
+  employer         : "Amazon Web Services"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pUhQ6qkAAAAJ"
   email            : "hvenugopalan@ucdavis.edu"

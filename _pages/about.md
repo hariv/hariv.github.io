@@ -17,30 +17,30 @@ I'm also wrapping up my Ph.D in Computer Science at the University of California
 - <span style="font-size:18px;">Started as an Applied Scientist with *AWS Fraud Prevention*</span>.
 
 ### 2025
-- <span style="font-size:18px;">Presented *"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* at IMC'25 at Madison</span>
-- <span style="font-size:18px;">Recognized as a top reviewer at *AISec Workshop '25*, co-located with *ACM Conference on Computer and Communications Security '25*</span>
-- <span style="font-size:18px;">Served as a reviewer for *IEEE Transactions on Computers* upon invitation</span>
-- <span style="font-size:18px;">Started working as an Applied Research Scientist Intern at Amazon's AWS Fraud Prevention Team</span>
-- <span style="font-size:18px;">Served on the shadow PC of ACM IMC 2025</span>
-- <span style="font-size:18px;">*"FP-Rowhammer: DRAM-Based Device Fingerprinting"* was accepted at ACM AsiaCCS'25</span>
-- <span style="font-size:18px;">*"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* was accepted at ACM IMC'25</span>
+- <span style="font-size:18px;">Presented *"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* at IMC'25 at Madison</span>.
+- <span style="font-size:18px;">Recognized as a top reviewer at *AISec Workshop '25*, co-located with *ACM Conference on Computer and Communications Security '25*</span>.
+- <span style="font-size:18px;">Served as a reviewer for *IEEE Transactions on Computers* upon invitation</span>.
+- <span style="font-size:18px;">Started working as an Applied Research Scientist Intern at Amazon's AWS Fraud Prevention Team</span>.
+- <span style="font-size:18px;">Served on the shadow PC of ACM IMC 2025</span>.
+- <span style="font-size:18px;">*"FP-Rowhammer: DRAM-Based Device Fingerprinting"* was accepted at ACM AsiaCCS'25</span>.
+- <span style="font-size:18px;">*"FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic"* was accepted at ACM IMC'25</span>.
 ### 2024
-- <span style="font-size:18px;">Presented *"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* on invitation from MIT at the MIT CSAIL Security Seminar</span>
-- <span style="font-size:18px;">Presented *"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* on invitation from the FairComp workshop co-located with UbiComp at Melbourne, Australia</span>
-- <span style="font-size:18px;">Presented *"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* at UbiComp'24 at Melbourne, Australia</span>
-- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '24*</span>
+- <span style="font-size:18px;">Presented *"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* on invitation from MIT at the MIT CSAIL Security Seminar</span>.
+- <span style="font-size:18px;">Presented *"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* on invitation from the FairComp workshop co-located with UbiComp at Melbourne, Australia</span>.
+- <span style="font-size:18px;">Presented *"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* at UbiComp'24 at Melbourne, Australia</span>.
+- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '24*</span>.
 - <span style="font-size:18px;">Awarded a Summer Fellowship by the *Graduate Group in Computer Science (GGCS)* for Summer 2024</span>.
-- <span style="font-size:18px">Attended *IEEE Symposium on Security & Privacy '24* (Oakland)</span>
-- <span style="font-size:18px">*"GlucOS: A secure, safe and extensible system for automated insulin delivery"* was recognized as the AI-Selected Best Poster at IEEE S&P'24</span>
-- <span style="font-size:18px;">*"Adaptability, Extensibility and Simplicity in the MetabolicOS"* was accepted at BioSys workshop'24</span>
-- <span style="font-size:18px;">Presented a talk on *"FP-Rowhammer: Rowhammer-Based Device Fingerprinting"* with ProperData</span>
+- <span style="font-size:18px">Attended *IEEE Symposium on Security & Privacy '24* (Oakland)</span>.
+- <span style="font-size:18px">*"GlucOS: A secure, safe and extensible system for automated insulin delivery"* was recognized as the AI-Selected Best Poster at IEEE S&P'24</span>.
+- <span style="font-size:18px;">*"Adaptability, Extensibility and Simplicity in the MetabolicOS"* was accepted at BioSys workshop'24</span>.
+- <span style="font-size:18px;">Presented a talk on *"FP-Rowhammer: Rowhammer-Based Device Fingerprinting"* with ProperData</span>.
 
 ### 2023
-- <span style="font-size:18px;">*"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* was accepted at UbiComp'24</span>
-- <span style="font-size:18px;">Presented a poster of *"Centauri: Extracting device fingerprints using Rowhammer"* at the 2023 ProperData Symposium at Northeastern University</span>
-- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '23*</span>
-- <span style="font-size:18px;">Served on the PC of *SecWeb 2023 Workshop*, co-located with *IEEE Symposium on Security & Privacy '23*</span>
-- <span style="font-size:18px;">Served as a reviewer for the *IEEE Internet of Things Journal*</span>
+- <span style="font-size:18px;">*"Aragorn: A Privacy-Enhancing System for Mobile Cameras"* was accepted at UbiComp'24</span>.
+- <span style="font-size:18px;">Presented a poster of *"Centauri: Extracting device fingerprints using Rowhammer"* at the 2023 ProperData Symposium at Northeastern University</span>.
+- <span style="font-size:18px;">Served on the PC of *AISec Workshop*, co-located with *ACM Conference on Computer and Communications Security '23*</span>.
+- <span style="font-size:18px;">Served on the PC of *SecWeb 2023 Workshop*, co-located with *IEEE Symposium on Security & Privacy '23*</span>.
+- <span style="font-size:18px;">Served as a reviewer for the *IEEE Internet of Things Journal*</span>.
 
 ### 2022
 - <span style="font-size:18px;">*"Open Source Software Computed Risk Framework"* was accepted at IEEE CSIT'22</span>.
