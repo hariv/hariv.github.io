@@ -14,6 +14,7 @@ I'm also wrapping up my Ph.D in Computer Science at the University of California
 
 ## News
 ### 2026
+- <span style="font-size:18px;">*"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* was accepted at ACM MobiSys'26</span>.
 - <span style="font-size:18px;">Started as an Applied Scientist with *AWS Fraud Prevention*</span>.
 
 ### 2025
