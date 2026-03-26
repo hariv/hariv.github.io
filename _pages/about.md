@@ -9,11 +9,17 @@ redirect_from:
 ---
 
 
-Hello! I'm an Applied Scientist working with AWS Fraud Prevention, currently working on detecting bots to proactively thwart fraudsters.
-I'm also wrapping up my Ph.D in Computer Science at the University of California Davis, advised by Professor [Sam King](https://bob.cs.ucdavis.edu/) and Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). My research focuses on defining the notion of digital identities for the 21st century through the lens of security, privacy, ethics, and accessibility. My research philosophy focuses on impact by proposing novel solutions to solve real-world problems. I previously worked as a Software Developer at Oracle.
+Hello! I'm an Applied Scientist working with AWS Fraud Prevention, currently working on detecting
+bots to thwart fraudsters. I have a Ph.D in Computer Science from the University of California
+Davis, advised by Professor [Sam King](https://bob.cs.ucdavis.edu) and Professor [Zubair Shafiq](
+https://web.cs.ucdavis.edu/~zubair/). My research focuses on defining the notion of digital
+identities for the 21st century through the lens of security, privacy, ethics, and accessibility.
+My research philosophy focuses on impact by proposing novel solutions to solve real-world problems.
+I previously worked as a Software Developer at Oracle.
 
 ## News
 ### 2026
+- <span style="font-size:18px;">*"Case Study Exploring the Utility of a Novel Predictive Glucose Alerting Application for Young Adults Living with Type 1 Diabetes "* was accepted at Diabetes Case Reports</span>.
 - <span style="font-size:18px;">*"GlucOS: Security, correctness, and simplicity for automated insulin delivery"* was accepted at ACM MobiSys'26</span>.
 - <span style="font-size:18px;">Started as an Applied Scientist with *AWS Fraud Prevention*</span>.
 
