@@ -19,7 +19,8 @@ I previously worked as a Software Developer at Oracle.
 
 ## News
 ### 2026
-- <span style="font-size:18x;">Awarded the Excellence in Graduate Student Research Award by UC Davis College of Engineering</span>.
+- <span style="font-size:18px;">*"HammerSim: A System-Level Tool to Model RowHammer"* was accepted at IISWC'26 and was a best paper finalist</span>.
+- <span style="font-size:18px;">Awarded the Excellence in Graduate Student Research Award by UC Davis College of Engineering</span>.
 - <span style="font-size:18px;">*"Computer-vision for Movement Observation and Recovery Enhancement (C-MORE): Box and Blocks Test"* was accepted at Bioengineering</span>.
 - <span style="font-size:18px;">Served on the PC of Agent Skills workshop' 26</span>.
 - <span style="font-size:18px;">Awarded a PhD in Computer Science at UC Davis</span>.
